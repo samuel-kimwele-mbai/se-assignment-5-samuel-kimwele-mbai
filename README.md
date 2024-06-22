@@ -12,8 +12,7 @@ Answer the following questions based on your understanding of the installation a
 
 - step 1 :Visit the VS Code Website:
 
-https://code.visualstudio.com/.
-Download the Installer:
+https://code.visualstudio.com/. and Download the Installer:
 
 - step 2 :Click on the "Download for Windows" button. This will download the VS Code installer (VSCodeSetup.exe).
 
