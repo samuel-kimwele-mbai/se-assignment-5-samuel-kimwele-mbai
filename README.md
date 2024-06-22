@@ -20,27 +20,27 @@ https://code.visualstudio.com/. and Download the Installer:
 
 - step 4: Accept the License Agreement:
 Read the license agreement and click on the "I accept the agreement" checkbox. Click "Next" to proceed.
-![alt text](image.png)
+![alt text](imag6.png)
 
 - step 5: Select Installation Location:
 
 Choose the destination folder where you want to install VS Code and Click "Next" to continue.
-![alt text](image-1.png)
+![alt text](imag1.png)
 
 - step 6: Select Additional Tasks:
 
-Choose additional tasks such as creating a desktop icon, adding VS Code to the PATH, and associating VS Code with supported file types. Click "Next".![alt text](image-2.png)
+Choose additional tasks such as creating a desktop icon, adding VS Code to the PATH, and associating VS Code with supported file types. Click "Next".![alt text](imag2.png)
 
 - step 7: Install:
-Click "Install" to begin the installation process.![alt text](image-3.png)
+Click "Install" to begin the installation process.![alt text](imag3.png)
 
 - step 8: Finish the Installation:
 
 Once the installation is complete, you can choose to launch Visual Studio Code immediately by selecting the checkbox and clicking "Finish".
-![alt text](image-4.png)
+![alt text](imag4.png)
 
 - Step 9: After the previous step, the Visual Studio Code window opens successfully. 
-![alt text](image-5.png)
+![alt text](imag5.png)
 
 
 
